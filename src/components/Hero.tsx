@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto animate-fade-up">
           <div className="flex flex-col md:flex-row items-center gap-8 mb-12">
             <Avatar className="w-48 h-48 border-4 border-white shadow-lg">
-              <AvatarImage src="/lovable-uploads/1139eff2-4f0b-4af7-8817-cc6daf689ad8.png" alt="Henry Motloch" />
+              <AvatarImage src="./lovable-uploads/1139eff2-4f0b-4af7-8817-cc6daf689ad8.png" alt="Henry Motloch" />
               <AvatarFallback>HM</AvatarFallback>
             </Avatar>
             <div className="text-center md:text-left">
