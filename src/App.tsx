@@ -17,7 +17,7 @@ const queryClient = new QueryClient();
 const App = () => (
   <QueryClientProvider client={queryClient}>
     <TooltipProvider>
-      <BrowserRouter basename="/henry-motloch">
+      <BrowserRouter >
         <Toaster />
         <Sonner />
         <Routes>

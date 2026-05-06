@@ -7,82 +7,82 @@ const BitmanGallery = () => {
   
   const projectImages = [
     {
-      src: "/henry-motloch/lovable-uploads/a0c6f826-fb3f-4f94-a942-e220a591aefe.png",
+      src: "/lovable-uploads/a0c6f826-fb3f-4f94-a942-e220a591aefe.png",
       caption: "BITMAN MVP Dashboard",
       alt: "BITMAN MVP Dashboard showing data visualization"
     },
     {
-      src: "/henry-motloch/lovable-uploads/142111a7-b12c-463e-8ae3-341527871d01.png",
+      src: "/lovable-uploads/142111a7-b12c-463e-8ae3-341527871d01.png",
       caption: "Program Performance Overview",
       alt: "Overview of program performance metrics"
     },
     {
-      src: "/henry-motloch/lovable-uploads/2af5f087-e34e-44d0-9860-dea9b6f5f5e5.png",
+      src: "/lovable-uploads/2af5f087-e34e-44d0-9860-dea9b6f5f5e5.png",
       caption: "Student Achievement Tracking",
       alt: "Student achievement metrics and performance indicators"
     },
     {
-      src: "/henry-motloch/lovable-uploads/59633ec1-2286-4440-82d7-71a99dcd6465.png",
+      src: "/lovable-uploads/59633ec1-2286-4440-82d7-71a99dcd6465.png",
       caption: "Faculty Assessment Dashboard",
       alt: "Faculty assessment and performance metrics"
     },
     {
-      src: "/henry-motloch/lovable-uploads/73d7bbf9-eb20-42e0-a0c6-a6cf659913b5.png",
+      src: "/lovable-uploads/73d7bbf9-eb20-42e0-a0c6-a6cf659913b5.png",
       caption: "Program Improvement Recommendations",
       alt: "Recommendations for program improvement based on data analysis"
     },
     {
-      src: "/henry-motloch/lovable-uploads/87d3880a-4714-48b3-af78-24c20d610c86.png",
+      src: "/lovable-uploads/87d3880a-4714-48b3-af78-24c20d610c86.png",
       caption: "Curriculum Gap Analysis",
       alt: "Analysis of gaps between curriculum and industry requirements"
     },
     {
-      src: "/henry-motloch/lovable-uploads/92f121c7-0724-4e49-a239-4f60eb7fb828.png",
+      src: "/lovable-uploads/92f121c7-0724-4e49-a239-4f60eb7fb828.png",
       caption: "Stakeholder Feedback Integration",
       alt: "Dashboard showing how stakeholder feedback is integrated"
     },
     {
-      src: "/henry-motloch/lovable-uploads/9d84dc41-bd70-4acb-be89-e2015f9126b1.png",
+      src: "/lovable-uploads/9d84dc41-bd70-4acb-be89-e2015f9126b1.png",
       caption: "Longitudinal Trend Analysis",
       alt: "Analysis of trends over time in program performance"
     },
     {
-      src: "/henry-motloch/lovable-uploads/b0c5955c-6044-49c3-8d97-8fb3e59974fe.png",
+      src: "/lovable-uploads/b0c5955c-6044-49c3-8d97-8fb3e59974fe.png",
       caption: "Industry Partnership Metrics",
       alt: "Metrics tracking industry partnerships and engagement"
     },
     {
-      src: "/henry-motloch/lovable-uploads/c273ea5c-2b40-4747-940c-730654e29e45.png",
+      src: "/lovable-uploads/c273ea5c-2b40-4747-940c-730654e29e45.png",
       caption: "Resource Allocation Overview",
       alt: "Overview of resource allocation across program components"
     },
     {
-      src: "/henry-motloch/lovable-uploads/d26cdffa-2861-412f-9634-7a0cc0fde68f.png",
+      src: "/lovable-uploads/d26cdffa-2861-412f-9634-7a0cc0fde68f.png",
       caption: "Course-Level Assessment Data",
       alt: "Detailed assessment data at the course level"
     },
     {
-      src: "/henry-motloch/lovable-uploads/e21cb63e-3362-46a2-b680-f8fea494097f.png",
+      src: "/lovable-uploads/e21cb63e-3362-46a2-b680-f8fea494097f.png",
       caption: "Program Learning Outcome Alignment",
       alt: "Alignment between program learning outcomes and assessments"
     },
     {
-      src: "/henry-motloch/lovable-uploads/e23da353-cf2f-4dbd-a65f-38ce36843e9b.png",
+      src: "/lovable-uploads/e23da353-cf2f-4dbd-a65f-38ce36843e9b.png",
       caption: "Student Progress Visualization",
       alt: "Visual representation of student progress through the program"
     },
     {
-      src: "/henry-motloch/lovable-uploads/effb4be1-77d5-4da5-b077-ff039de6faf5.png",
+      src: "/lovable-uploads/effb4be1-77d5-4da5-b077-ff039de6faf5.png",
       caption: "Competency Framework Mapping",
       alt: "Mapping of curriculum to competency frameworks"
     },
     {
-      src: "/henry-motloch/lovable-uploads/f7c9f275-16ee-43b4-adf1-734c2cbbf652.png",
+      src: "/lovable-uploads/f7c9f275-16ee-43b4-adf1-734c2cbbf652.png",
       caption: "Data Collection Methodology",
       alt: "Explanation of data collection methodology for the dashboard"
     },
     {
-      src: "/henry-motloch/lovable-uploads/104020fa-8d99-46ec-8459-eab05eb4c771.png",
+      src: "/lovable-uploads/104020fa-8d99-46ec-8459-eab05eb4c771.png",
       caption: "Executive Summary of Findings",
       alt: "Executive summary of key findings from the dashboard analysis"
     }

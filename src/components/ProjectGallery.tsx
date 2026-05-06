@@ -8,97 +8,97 @@ const ProjectGallery = () => {
   
   const projectImages = [
     {
-      src: "/henry-motloch/lovable-uploads/b4cc085e-5339-48a6-8612-5ad0c857464d.png",
+      src: "/lovable-uploads/b4cc085e-5339-48a6-8612-5ad0c857464d.png",
       caption: "Cover Page - BSYS-3205 Business Intelligence 1",
       alt: "Cover page of the VPD Crime Statistics project"
     },
     {
-      src: "/henry-motloch/lovable-uploads/2d4f89a0-ad78-47d5-b66a-142749428bed.png",
+      src: "/lovable-uploads/2d4f89a0-ad78-47d5-b66a-142749428bed.png",
       caption: "Table of Contents",
       alt: "Table of Contents showing the project structure"
     },
     {
-      src: "/henry-motloch/lovable-uploads/e247a7cf-eb57-4a02-bdd2-d435f6fdbddb.png",
+      src: "/lovable-uploads/e247a7cf-eb57-4a02-bdd2-d435f6fdbddb.png",
       caption: "Background of the Crime Statistics Analysis",
       alt: "Background section detailing the project's purpose"
     },
     {
-      src: "/henry-motloch/lovable-uploads/05880f1d-74ed-422f-9e8e-b5b485de912f.png",
+      src: "/lovable-uploads/05880f1d-74ed-422f-9e8e-b5b485de912f.png",
       caption: "Executive Summary and Recommendations",
       alt: "Executive Summary and initial recommendations"
     },
     {
-      src: "/henry-motloch/lovable-uploads/10522d66-a5ab-4c8e-9344-ffe94ff47479.png",
+      src: "/lovable-uploads/10522d66-a5ab-4c8e-9344-ffe94ff47479.png",
       caption: "Data Used in the Analysis",
       alt: "Description of datasets used for analysis"
     },
     {
-      src: "/henry-motloch/lovable-uploads/e0828e2f-5b85-465c-8942-7268af91b105.png",
+      src: "/lovable-uploads/e0828e2f-5b85-465c-8942-7268af91b105.png",
       caption: "Dashboard: Crime Incident Density and Distribution",
       alt: "Dashboard showing crime incident density across Vancouver"
     },
     {
-      src: "/henry-motloch/lovable-uploads/004c0553-e7d5-4338-906f-8b187d57a3d4.png",
+      src: "/lovable-uploads/004c0553-e7d5-4338-906f-8b187d57a3d4.png",
       caption: "Correlation between Extreme Crimes and Petty Crimes",
       alt: "Analysis of correlation between extreme and petty crimes"
     },
     {
-      src: "/henry-motloch/lovable-uploads/35f2875f-a6c7-4039-86fe-a19e33f42e67.png",
+      src: "/lovable-uploads/35f2875f-a6c7-4039-86fe-a19e33f42e67.png",
       caption: "Crime Environment Analysis (2021-2023)",
       alt: "Analysis of recent crime environment in Vancouver"
     },
     {
-      src: "/henry-motloch/lovable-uploads/5659838e-4e47-4f18-a814-f600f9c69fbe.png",
+      src: "/lovable-uploads/5659838e-4e47-4f18-a814-f600f9c69fbe.png",
       caption: "Correlation between Property Crimes and Violent Crimes",
       alt: "Analysis of correlation between property crimes and violent crimes"
     },
     {
-      src: "/henry-motloch/lovable-uploads/7539be80-dfa1-4569-97c2-504a75271a12.png",
+      src: "/lovable-uploads/7539be80-dfa1-4569-97c2-504a75271a12.png",
       caption: "Dashboard: Percentage of 'Mischief' Among All Crime Types",
       alt: "Dashboard showing percentage of mischief crimes"
     },
     {
-      src: "/henry-motloch/lovable-uploads/8a4b5943-79b0-4333-831c-876b2068cab7.png",
+      src: "/lovable-uploads/8a4b5943-79b0-4333-831c-876b2068cab7.png",
       caption: "Trends and Neighborhood Analysis",
       alt: "Analysis of crime trends by neighborhood"
     },
     {
-      src: "/henry-motloch/lovable-uploads/7ce8fb25-7f47-4907-86ad-914a64d81ec5.png",
+      src: "/lovable-uploads/7ce8fb25-7f47-4907-86ad-914a64d81ec5.png",
       caption: "Dashboard: Prevalence of Crime and Proximity to Homeless Shelter",
       alt: "Analysis of crime proximity to homeless shelters"
     },
     {
-      src: "/henry-motloch/lovable-uploads/bb13db8e-3e43-4c09-bff1-66f06824a92b.png",
+      src: "/lovable-uploads/bb13db8e-3e43-4c09-bff1-66f06824a92b.png",
       caption: "Prevalence of Crime and Proximity to Special Businesses",
       alt: "Analysis of crime proximity to special businesses"
     },
     {
-      src: "/henry-motloch/lovable-uploads/c7cda9f1-4a95-482f-8ad0-62bdad2de646.png",
+      src: "/lovable-uploads/c7cda9f1-4a95-482f-8ad0-62bdad2de646.png",
       caption: "Limitations and Cautions",
       alt: "Research limitations and cautions"
     },
     {
-      src: "/henry-motloch/lovable-uploads/422032f8-78a4-4b19-9288-53fb4e569f45.png",
+      src: "/lovable-uploads/422032f8-78a4-4b19-9288-53fb4e569f45.png",
       caption: "Appendix: Data Sources",
       alt: "Appendix showing data sources"
     },
     {
-      src: "/henry-motloch/lovable-uploads/5a72276d-726c-45df-b2cf-6f071da5b152.png",
+      src: "/lovable-uploads/5a72276d-726c-45df-b2cf-6f071da5b152.png",
       caption: "Data Cleaning Steps",
       alt: "Description of data cleaning process"
     },
     {
-      src: "/henry-motloch/lovable-uploads/87edc18c-180a-4d99-933f-b5f3a20f82df.png",
+      src: "/lovable-uploads/87edc18c-180a-4d99-933f-b5f3a20f82df.png",
       caption: "Further Data Processing Steps",
       alt: "Additional data processing steps"
     },
     {
-      src: "/henry-motloch/lovable-uploads/0446f147-433e-4a4c-909e-bc8679002ddf.png",
+      src: "/lovable-uploads/0446f147-433e-4a4c-909e-bc8679002ddf.png",
       caption: "Data Iteration and Analysis",
       alt: "Methodology for data iteration"
     },
     {
-      src: "/henry-motloch/lovable-uploads/a7bc19a9-78d6-45e4-9df7-d7ff4dc74cbe.png",
+      src: "/lovable-uploads/a7bc19a9-78d6-45e4-9df7-d7ff4dc74cbe.png",
       caption: "Entity Relationship Diagram",
       alt: "ERD showing the database structure"
     }
