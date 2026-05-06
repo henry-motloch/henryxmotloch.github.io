@@ -9,11 +9,11 @@ const Projects = () => {
     url: "/projects/power-bi-dashboard",
     isInternalLink: true
   }, {
-    title: "Aloha Plumeria Brand Guide",
-    description: "Developed a full brand identity for a boutique hotel, reflecting luxury and island warmth through typography, color, and logo design.",
-    image: "/lovable-uploads/df7432ba-f467-46db-8bcf-465a9846de6e.png",
-    tags: ["Branding", "Logo Design", "Typography"],
-    url: "/projects/aloha-plumeria",
+    title: "BITMAN MVP",
+    description: "Built a Power BI dashboard aligning curriculum goals with industry standards, helping students, faculty, and schools improve program clarity.",
+    image: "/lovable-uploads/a0c6f826-fb3f-4f94-a942-e220a591aefe.png",
+    tags: ["Power BI", "Education", "Data Analysis"],
+    url: "/projects/bitman-mvp",
     isInternalLink: true
   }, {
     title: "Willow Grove Stationery Package",
@@ -23,11 +23,11 @@ const Projects = () => {
     url: "/projects/willow-grove",
     isInternalLink: true
   }, {
-    title: "BITMAN MVP",
-    description: "Built a Power BI dashboard aligning curriculum goals with industry standards, helping students, faculty, and schools improve program clarity.",
-    image: "/lovable-uploads/a0c6f826-fb3f-4f94-a942-e220a591aefe.png",
-    tags: ["Power BI", "Education", "Data Analysis"],
-    url: "/projects/bitman-mvp",
+    title: "Aloha Plumeria Brand Guide",
+    description: "Developed a full brand identity for a boutique hotel, reflecting luxury and island warmth through typography, color, and logo design.",
+    image: "/lovable-uploads/df7432ba-f467-46db-8bcf-465a9846de6e.png",
+    tags: ["Branding", "Logo Design", "Typography"],
+    url: "/projects/aloha-plumeria",
     isInternalLink: true
   }];
   return <section id="projects" className="py-20 bg-gray-50">
