@@ -8,57 +8,57 @@ const WillowGroveGallery = () => {
   
   const projectImages = [
     {
-      src: "./lovable-uploads/deef486c-1bd2-45c7-bf19-2a5643b472dd.png",
+      src: "/henry-motloch/lovable-uploads/deef486c-1bd2-45c7-bf19-2a5643b472dd.png",
       caption: "Cover Page - Willow Grove Stationery Package",
       alt: "Willow Grove logo with stationery package title"
     },
     {
-      src: "./lovable-uploads/474e068e-831a-4676-b386-846da073dfbc.png",
+      src: "/henry-motloch/lovable-uploads/474e068e-831a-4676-b386-846da073dfbc.png",
       caption: "Business Card Design",
       alt: "Business card design for Sienna Volpati, senior vice president"
     },
     {
-      src: "./lovable-uploads/498535bd-c338-42d7-9fa5-d21cccc37701.png",
+      src: "/henry-motloch/lovable-uploads/498535bd-c338-42d7-9fa5-d21cccc37701.png",
       caption: "Business Cards Specifications",
       alt: "Business cards specifications showing 3.5\" x 2\" dimensions"
     },
     {
-      src: "./lovable-uploads/56cf5c82-6bfe-47d1-b29f-95d5588587de.png",
+      src: "/henry-motloch/lovable-uploads/56cf5c82-6bfe-47d1-b29f-95d5588587de.png",
       caption: "Letterhead Design",
       alt: "Full letterhead design with sample text describing the eco-friendly community"
     },
     {
-      src: "./lovable-uploads/44a3c64e-6643-442e-adae-6877916c71a3.png",
+      src: "/henry-motloch/lovable-uploads/44a3c64e-6643-442e-adae-6877916c71a3.png",
       caption: "Envelope Design",
       alt: "Envelope design showing #10 envelope with dimensions 9.5\" x 4.125\""
     },
     {
-      src: "./lovable-uploads/565dae29-9f61-4aac-97df-496046b388d5.png",
+      src: "/henry-motloch/lovable-uploads/565dae29-9f61-4aac-97df-496046b388d5.png",
       caption: "Complete Stationery Suite Mockup",
       alt: "Complete stationery suite showing letterhead, business cards and envelopes together"
     },
     {
-      src: "./lovable-uploads/8bb401a2-8f07-44df-9874-cdf22556d86c.png",
+      src: "/henry-motloch/lovable-uploads/8bb401a2-8f07-44df-9874-cdf22556d86c.png",
       caption: "Color Palette Rationale",
       alt: "Color palette showing Saratoga, Crete and Chrome White color chips with hex codes"
     },
     {
-      src: "./lovable-uploads/f500fbfb-7134-4a90-841a-8bdb74f4f7b9.png",
+      src: "/henry-motloch/lovable-uploads/f500fbfb-7134-4a90-841a-8bdb74f4f7b9.png",
       caption: "Font Choices Rationale",
       alt: "Font selection showing Questa Sans Medium, Questa Grande Bold and Questa Grande Medium"
     },
     {
-      src: "./lovable-uploads/8162a5bb-deb3-4ba1-acff-890c0d9cdb7b.png",
+      src: "/henry-motloch/lovable-uploads/8162a5bb-deb3-4ba1-acff-890c0d9cdb7b.png",
       caption: "Logo Development Process",
       alt: "Process of logo development showing sketches to final logo design"
     },
     {
-      src: "./lovable-uploads/b2a8c650-552c-415a-b4a3-ee567274f96d.png",
+      src: "/henry-motloch/lovable-uploads/b2a8c650-552c-415a-b4a3-ee567274f96d.png",
       caption: "Final Logo Design",
       alt: "Final willow grove logo design with rationale"
     },
     {
-      src: "./lovable-uploads/3c725237-4a76-4ea9-a593-08e8987874eb.png",
+      src: "/henry-motloch/lovable-uploads/3c725237-4a76-4ea9-a593-08e8987874eb.png",
       caption: "Design Rationale and Explanation",
       alt: "Detailed explanation of logo design and color choices"
     }
