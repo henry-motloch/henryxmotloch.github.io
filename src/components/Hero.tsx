@@ -34,9 +34,11 @@ const Hero = () => {
               <Linkedin size={18} />
               LinkedIn
             </a>
-            <a href="/resume" className="px-8 py-3 bg-orange-600 text-white rounded-lg hover:bg-orange-700 transition-colors flex items-center gap-2">
-              <FileText size={18} />
-              Resume
+            <a href="/HenryMotlochResume.pdf" 
+              download="HenryMotlochResume.pdf" 
+              className="px-8 py-3 bg-orange-600 text-white rounded-lg hover:bg-orange-700 transition-colors flex items-center gap-2">
+             <FileText size={18} />
+             Resume
             </a>
             <a href="#contact" className="px-8 py-3 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
               Get in Touch
